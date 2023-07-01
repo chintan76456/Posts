@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+table,
+td,
+th {
+  border: 1px solid green;
+  border-collapse: collapse;
+  font-size: 12px;
+}
+
+button {
+  border-radius: 12px;
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 4px 8px;
+}
